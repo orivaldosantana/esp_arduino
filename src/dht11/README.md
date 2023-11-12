@@ -11,11 +11,11 @@ Circuito básico:
 
 A tabela abaixo ilustra o uso dos jumpers para conectar o sensor à placa NodeMCU ESP32. 
 
-| Sensor DS18B20 | ESP32 |
+| Sensor DHT11 | ESP32 | ESP8266 |
 | --------------- | --------------- | 
-| -  | GND  | 
-|  + | 3.3v | 
-| S  | 23 | 
+| -  | GND  |  GND  |
+|  + | 3.3v | 3.3V |
+| S  | GPIO23 |  GPIO4  |
 
 ## Código Básico 
 Este código configura o pino GPIO23 como entrada do sinal lido do sensor dht11. 

@@ -1,6 +1,6 @@
 # DHT11 - Sensor de temperatura
 
-Este código é para realizer um teste básico de leitura de um sensor de temperatura ambiente, DHT11. Para mais detalhes ver o vídeo neste [link](https://youtu.be/XGheCgyzBLo). 
+Este código é para realizer um teste básico de leitura de um sensor de temperatura ambiente, DHT11. Para mais detalhes ver o vídeo neste [link](https://youtu.be/PBO_ClJ70y0). 
 
 ## Componentes 
 * NodeMCU ESP32 
@@ -64,4 +64,4 @@ void loop()
 * [ESP8266 DHT11/DHT22 Temperature and Humidity Web Server with Arduino IDE](https://randomnerdtutorials.com/esp8266-dht11dht22-temperature-and-humidity-web-server-with-arduino-ide/)
 * [Monitorando Temperatura e Umidade com o sensor DHT11](https://www.makerhero.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/)
 * https://RandomNerdTutorials.com 
-* [Vídeo testando o sensor de temperatura ambiente com Arduino IDE e ESP]( ) 
+* [Vídeo testando o sensor de temperatura ambiente com Arduino IDE e ESP](https://youtu.be/PBO_ClJ70y0) 

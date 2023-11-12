@@ -12,7 +12,7 @@ Circuito básico:
 A tabela abaixo ilustra o uso dos jumpers para conectar o sensor à placa NodeMCU ESP32. 
 
 | Sensor DHT11 | ESP32 | ESP8266 |
-| --------------- | --------------- | 
+| --------------- | --------------- |  --------------- | 
 | -  | GND  |  GND  |
 |  + | 3.3v | 3.3V |
 | S  | GPIO23 |  GPIO4  |

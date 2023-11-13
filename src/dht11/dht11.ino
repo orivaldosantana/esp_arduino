@@ -27,7 +27,7 @@ void loop()
   {
     Serial.print("Umidade: ");
     Serial.print(h);
-    Serial.print(" \t");
+    Serial.print("  ");
     Serial.print("Temperatura: ");
     Serial.print(t);
     Serial.println(" *C");
